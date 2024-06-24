@@ -1,41 +1,28 @@
 [
     {
-        "name": "PowerBI",
-        "icon": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "Tableau",
-        "icon": "https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp"
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Google Analytics",
-        "icon": "https://developers.google.com/static/analytics/images/terms/lockup_ic_Google_Analytics_vert_388px_clr.png"
-    },
-    {
-        "name": "Excel",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/fluency/48/000000/mysql.png"
-    },
-    {
-        "name": "Salesforce",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png"
-    },
-    {
-        "name": "Machine Learning",
-        "icon": "https://www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png"
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/?size=48&id=90519&format=png"
     },
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/fluency/48/000000/mysql.png"
     },
-    
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -56,7 +43,14 @@
         "name": "Rest API",
         "icon": "https://img.icons8.com/?size=48&id=21895&format=png"
     },
-    
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
     {
         "name": "C",
         "icon": "https://img.icons8.com/?size=48&id=40670&format=png"
@@ -76,6 +70,10 @@
     {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
         "name": "GitHub",
